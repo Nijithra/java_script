@@ -144,3 +144,14 @@ for(const value of mapeg){
 console.log("\n")
 
 console.log(mapeg.has("id"))
+console.log("\n")
+
+//add 
+mapeg.set("phone","7708486706")
+console.log(mapeg)
+console.log("\n")
+
+//delete
+mapeg.delete("phone","7708486706")
+console.log(mapeg)
+console.log("\n")
