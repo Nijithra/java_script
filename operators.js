@@ -32,6 +32,5 @@ console.log("Relational Operator <= is:",aA<=bA)
 console.log("Relational Operator == is:",aA==bA)
 console.log("Relational Operator != is:",aA!=bA)
 
-//Objects
-//how will you declare objects.
+
 
